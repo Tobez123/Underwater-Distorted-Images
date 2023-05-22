@@ -1,2 +1,2 @@
 # Underwater-Distorted-Images
-Algorithm for Underwater distorted images reconstruction
+Algorithm for underwater distorted images reconstruction
